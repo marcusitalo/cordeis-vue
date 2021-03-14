@@ -1,0 +1,4 @@
+@keyframes movementBackground {
+    to  {background-position: 0 bottom;}
+    from  {background-position:300px  bottom;}
+  }
