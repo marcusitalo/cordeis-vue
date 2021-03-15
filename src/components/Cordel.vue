@@ -68,6 +68,9 @@ export default {
   width: 25vw;
   height: 75vh;
   margin: 30px;
+  box-shadow: 1px 2px 3px 1px #907f30;
+  border-bottom: 5px double #d4c897;
+  border-right: 5px double #d6ca95;
 }
 @media screen and (max-width: 576px) {
   .cordel {
